@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 # 🚀 **Toxic Online Behavior Detection and Classification**
